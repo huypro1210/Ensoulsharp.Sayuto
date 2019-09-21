@@ -29,7 +29,6 @@ namespace DaoHungAIO.Champions
         private static Render.Text Timer, Timer2;
         private static bool forceQ;
         private static bool forceW;
-        private static bool forceR;
         private static bool forceR2;
         private static bool forceItem;
         private static float LastQ;
